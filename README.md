@@ -1,3 +1,4 @@
+
 # NFC_NCIHAL_Nfc
 
 ####Git Repository
@@ -33,3 +34,6 @@
 | android-7.0.0_r12                     |  7.3.0_N (PN553) |  NFC_NCIHALx_ARC0.7.3.0_N_OpnSrc |
 | android-7.1.1_r1                     |  7.4.0_N (PN548C2/PN551) |  NFC_NCIHALx_AR3C.7.4.0_N_OpnSrc |
 | android-7.1.1_r1                     |  7.5.0_N (PN553) |  NFC_NCIHALx_ARC0.7.5.0_N_OpnSrc |
+=======
+# vendor_nxp-nfc_opensource_Nfc
+To Be Cloned in vendor/nxp-nfc/opensource/Nfc
